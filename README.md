@@ -1,2 +1,2 @@
 # read_count_normalization
-Data for metagenomic processing
+Data and code for metagenomic processing and creating plots
