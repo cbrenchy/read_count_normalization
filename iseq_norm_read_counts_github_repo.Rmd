@@ -31,7 +31,7 @@ coefficient of variation (CV) of read-count normalization
 sd(iseq_norm_counts_arranged$sample_proportion)/mean(iseq_norm_counts_arranged$sample_proportion)
 ```
 
-coefficient of variation (CV) of fluorescent quantification normalization 
+coefficient of variation (CV) of fluorescent quantification normalization,
 ```{r}
 sd(quant_norm_counts_arranged$sample_proportion)/mean(quant_norm_counts_arranged$sample_proportion)
 ```
